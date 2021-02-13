@@ -1,3 +1,3 @@
 # vue-movie-search
 
-Movie Search Website made with Vue
+# Vue💚 Application : Search engine for different kinds of movies by me🙂
